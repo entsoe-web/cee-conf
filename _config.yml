@@ -1,0 +1,34 @@
+exclude: ['blog', 'library', 'api', 'src', 'node_modules', 'bower_components', 'readme_pics']
+include: ['.htaccess']
+keep_files: ['blog', 'library', 'brigade', 'api']
+# Used to generate our social metadata
+baseurl: ''
+repository: entsoe-web/baltic-conf
+url-base: "http://entsoe.eu"
+permalink: pretty
+future: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "pages"
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "events"
+
+collections:
+  sections:
+    output: false
+  events:
+    output: true

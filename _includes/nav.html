@@ -1,0 +1,100 @@
+{% if page.nav_tier1_active %}
+    {% assign nav_tier1_active = page.nav_tier1_active %}
+{% elsif include.nav_tier1_active %}
+    {% assign nav_tier1_active = include.nav_tier1_active %}
+{% else %}
+    {% assign nav_tier1_active = false %}
+{% endif %}
+
+{% if page.masthead-class %}
+    {% assign masthead-class = page.masthead-class %}
+{% elsif include.masthead-class %}
+    {% assign masthead-class = include.masthead-class %}
+{% else %}
+    {% assign masthead-class = "masthead-l" %}
+{% endif %}
+
+{% if page.masthead-image %}
+    {% assign masthead-image = page.masthead-image %}
+{% elsif include.masthead-image %}
+    {% assign masthead-image = include.masthead-image %}
+{% else %}
+    {% assign masthead-image = false %}
+{% endif %}
+
+{% if page.nav-global-primary %}
+    {% assign nav-global-primary = page.nav-global-primary %}
+{% elsif include.nav-global-primary %}
+    {% assign nav-global-primary = include.nav-global-primary %}
+{% else %}
+    {% assign nav-global-primary = false %}
+{% endif %}
+
+{% if page.masthead %}
+    {% assign masthead = page.masthead %}
+{% elsif include.masthead %}
+    {% assign masthead = include.masthead %}
+{% else %}
+    {% assign masthead = false %}
+{% endif %}
+
+{% comment %}
+      We previously had a nav-global-primary that has been removed. However, due
+      to a bug, if we don't show the primary nav, we need an empty container so
+      we can collapse the main nav on mobile screens. This requirement is because
+      of the nav collapse functionality in global.js.
+{% endcomment %}
+
+{% assign sections = site.sections | sort: 'order' %}
+
+{%if page.title == 'Home' %}
+
+<div class="sticky-container" data-sticky-container style="height:58px;">
+<div class="global-header sticky custom-nav" id="example" data-sticky data-sticky-on="small"  data-margin-top="0" style="width:100%;" data-margin-bottom="0" data-top-anchor="first" data-btm-anchor="destroy:bottom">
+
+<a href="{{'/' | prepend: site.baseurl}}" class="global-header-logo">
+    <img src="{{'/assets/img/ee-logo.png'|prepend:site.baseurl}}" alt="ENTSO-E logo" />
+</a>
+
+<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium" style="display: none;">
+  <button class="menu-icon" type="button" data-toggle></button>
+  <div class="title-bar-title"></div>
+</div>
+
+<nav  class="nav-global-secondary" data-magellan>
+  <ul id="main-menu" class="vertical medium-horizontal align-right">
+  
+  {% for s in sections %}
+    <li><a href="#{{s.title | slugify }}" class="page-scroll">{{s.title}}</a></li>
+  {% endfor %}
+  </ul>
+</nav>
+</div>
+
+</div>
+
+{% else %}
+<div class="sticky-container" data-sticky-container style="height:75px;">
+<div class="global-header sticky custom-nav top-nav-collapse" id="example" data-sticky data-sticky-on="small"  data-margin-top="0" style="width:100%;" data-margin-bottom="0" data-top-anchor="first" data-btm-anchor="destroy:bottom">
+
+<a href="{{'/' | prepend: site.baseurl}}" class="global-header-logo">
+    <img src="{{'/assets/img/ee-logo.png'|prepend:site.baseurl}}" alt="ENTSO-E logo" />
+</a>
+
+<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+  <button class="menu-icon" type="button" data-toggle></button>
+  <div class="title-bar-title"></div>
+</div>
+
+<nav class="nav-global-secondary">
+  <ul id="main-menu" class="vertical medium-horizontal align-right">
+  
+  {% for s in sections %}
+    <li><a href="{{'/' |prepend:site.baseurl}}#{{s.title | slugify }}" class="page-scroll">{{s.title}}</a></li>
+  {% endfor %}
+  </ul>
+</nav>
+</div>
+
+</div>
+{%endif%}
