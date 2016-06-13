@@ -3,10 +3,12 @@ title: partners
 order: 4
 published: false
 partners:
+ - {name: "mavir", img: "mavir.png"}
  - {name: "PSE", img: "pse.png"}
  - {name: "SEPS", img: "seps.png"}
  - {name: "ceps", img: "ceps.png"}
- - {name: "mavir", img: "mavir.png", css: "medium-offset-3 clear"}
+ - {name: "te", img: "te.png"}
+ - {name: "fsr", img: "fsr.png", css: "medium-offset-3 clear"}
 ---
 
 <style type="text/css">
