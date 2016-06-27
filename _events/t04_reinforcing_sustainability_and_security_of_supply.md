@@ -5,22 +5,21 @@ moderator: Susanne Nies
 speakers: 
   - Eryk Klossowski
   - Ivo Nesrovnal
-  - Alena Vitásková
-  - RGI/WWF
+  - Sebastien Lepy (tbc)
+  - Alena Vitásková (tbc)
+  - Antonella Battaglini (tbc)
 ---
 
-
-
-Introduced by e-voting
+_Introduced by e-voting_
 
 Introduction by Eryk Klossowski, President of the Board, PSE 
 
-Empowering local and regional authorities to contribute to security of supply and the Energy Union - Ivo Nesrovnal, Mayor of Bratislava or Pavol Freso, Bratislava region governor, Member of Committee of the Regions
+Empowering local and regional authorities to contribute to security of supply and the Energy Union - Ivo Nesrovnal, Mayor of Bratislava, Member of Committee of the Regions
 
-System adequacy and security of supply in the CEE region: what do the outlooks and TYNDP say?– Sebastien Lepy, Chair, System Development Committee, ENTSO-E (tbc)
+System adequacy and security of supply in the CEE region: what do the outlooks and TYNDP say? - Sebastien Lepy, Chair, System Development Committee, ENTSO-E (tbc)
 
-Supporting infrastructure development across borders: a regulatory perspective - Alena Vitásková, Chair, ERÚ, CEER Assembly Member
+Supporting infrastructure development across borders: a regulatory perspective - Alena Vitásková, Chair, ERÚ, CEER Assembly Member (tbc)
 
-Don’t forget about sustainability – RGI/WWF speaker (tbc)
+Don’t forget about sustainability – Antonella Battaglini, CEO, RGI (tbc)
 
 Followed by Q&A moderated by Susanne Nies, Corporate Affairs Manager, ENTSO-E

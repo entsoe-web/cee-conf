@@ -3,23 +3,24 @@ title: "The Energy Union: what does it mean in the CEE region?"
 time: 09.00 - 10.00
 moderator: Konstantin Staschus
 speakers:
-  - Maros Sefcovic 
-  - Peder Andreasen
-  - Peter Žiga
-  - Jan Mládek
-  - Jerzy Buzek
+  - Maros Sefcovic (tbc)
+  - Bente Hagem
+  - Peter Žiga (tbc)
+  - Jan Mládek (tbc)
+  - Jerzy Buzek (tbc)
 ---
 
 _Introduced by e-voting_
 
-Delivering the Energy Union in the CEE region - EC Vice-President Maros Sefcovic 
+Delivering the Energy Union in the CEE region - Maroš Šefčovič, Vice-President for the Energy Union, EC (tbc)
 
-Regional cooperation: a TSO perspective – Peder Andreasen, President of ENTSO-E 
+Regional cooperation: a TSO perspective - Bente Hagem, Chair of the Board, ENTSO-E 
 
-Ing. Peter Žiga, PhD., Minister of Economy of the Slovak Republic, Slovak Presidency of the EU (tbc)
+The Energy Union governance and strengthening regional cooperation - Ing. Peter Žiga, PhD., Minister of Economy of the Slovak Republic, Slovak Presidency of the EU (tbc)
 
-Jan Mládek - Minister, Ministry of Industry and Trade, Czech Republic
+Regional cooperation in CEE: challenges and opportunities ahead - Jan Mládek, Minister, Ministry of Industry and Trade, Czech Republic (tbc)
 
 Energy Regions: the European Parliament’s expectations - Jerzy Buzek, Chair, ITRE Committee, European Parliament (tbc)
+
 
 Followed by Q&A moderated by Konstantin Staschus, Secretary-General, ENTSO-E
