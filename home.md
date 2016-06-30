@@ -19,7 +19,7 @@ permalink: "/"
 {:class="page-title"}
 
 <div class="text-center" style="margin-top:2em;">
-<p style="font-weight: 600;">Bratislava, Slovakia - 22 - 23 September 2016</p>
+<p style="font-weight: 600;">Bratislava, Slovakia - 23 September 2016</p>
 <a class="button large" href="{{'/register' | prepend: site.baseurl}}">Register now!</a>
 </div>
 <div class="text-center" style="margin-top:2em;">

@@ -8,7 +8,7 @@ layout: pub
 
 Upon registration you will be sent an email with your ticket. Don't forget to bring this with you to the event.
 
-The conference will take place on 22-23 September 2016 at the [**Grand Hotel River Park**](https://goo.gl/maps/czETZzEoqom), Bratislava, Slovakia.
+The conference will take place on 23 September 2016 at the [**Grand Hotel River Park**](https://goo.gl/maps/czETZzEoqom), Bratislava, Slovakia.
 
 If you have any questions, please contact us using the email address below:
 

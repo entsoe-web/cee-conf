@@ -52,7 +52,7 @@ fill: 'fill-grey'
    <a href="{{i.url | prepend: site.baseurl}}" class="panel-name">{{i.title}}</a>
    {% endif %}
    <span class="speakers">
-   {{i.speakers | join: ', '}}
+   {{i.speakers | join: ', '}} {% if i.moderator %}<br>Moderator: {{i.moderator}}{% endif %}
    </span>
  </td>
 </tr>
