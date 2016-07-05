@@ -7,7 +7,7 @@ permalink: "/"
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 
-<div class="bleed-section" style="background-size:cover;color:#fff;height:30em;background-image:url({{'/assets/img/header-3.jpg' | prepend:site.baseurl ;}});">
+<div class="bleed-section" style="background-size:cover;color:#fff;height:30em;background-image:url({{'/assets/img/header-4.jpg' | prepend:site.baseurl ;}});">
 
 <a href="" id="first"></a>
 
