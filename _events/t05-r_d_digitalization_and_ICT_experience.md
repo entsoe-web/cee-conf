@@ -6,6 +6,8 @@ speakers:
   - Kamilla Csomai
   - Joao Torres (tbc)
   - Marie Donnelly (tbc)
+  - Aleksander Mervar (tbc)
+  - Damjan Medimorec (tbc)
 moderator: "Ben Voorhorst"
 ---
 
@@ -19,5 +21,10 @@ Digitalization and ICT experience: challenges and opportunities – Kamilla Csom
 The role of innovation in the TSO-DSO synergies – Joao Torres, Chair, EDSO for Smart Grids (tbc)
 
 Big data in energy – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
+
+Challenges and opportunities for new market entrants – Aleksander Mervar, CEO ELES (tbc)
+
+Developing the potential of DSR in the region - Damjan Medimorec, Director, Executive Office, HOPS
+
 
 Followed by Q&A moderated Ben Voorhorst, Vice-Chair, ENTSO-E

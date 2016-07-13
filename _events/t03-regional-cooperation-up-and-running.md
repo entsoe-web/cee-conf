@@ -1,5 +1,5 @@
 ---
-title: "Panel Session 2: Regional cooperation up and running "
+title: "Panel Session 2: Regional cooperation up and running"
 time: 11.30 - 12.30
 moderator: Sonya Twohig
 speakers: 
@@ -7,6 +7,7 @@ speakers:
   - Miroslav Stejskal
   - Paul Rübig (tbc)
   - Siem Bruijns (tbc)
+  - Thomas Karall (tbc)
   - Annegret Groebel (tbc)
   - Catalin Chimirel
 ---
@@ -22,6 +23,8 @@ What does the roadmap mean? – Ing. Miroslav Stejskal, General Director, SEPS
 Regionalization: what models for regional cooperation for Europe? – Paul Rübig MEP, ITRE Committee, European Parliament (tbc)
 
 What benefit from Regional Security Coordinators? – Siem Bruijns, Managing Director, TSCNET (tbc)
+
+Austria within the regional context: an APG perspective - Thomas Karall, APG, ENTSO-E Board Member
 
 Regulatory cooperation in regions – Annegret Groebel, Vice-President, CEER, BNetzA (tbc)
 
