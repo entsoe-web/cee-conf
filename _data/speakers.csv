@@ -1,31 +1,31 @@
 name,company,position,twitter,web,image
 Bente Hagem,ENTSO-E / Statnett,Chair/Executive Vice-President,entso_e,https://www.entsoe.eu,bente_hagem.jpg
-Klaus-Dieter Borchardt (tbc),European Commission,"Director, Directorate B",,http://ec.europa.eu/index_en.htm,borchardt.jpg
-Ben Voorhorst,ENTSO-E,Vice-Chair,,https://www.entsoe.eu/Pages/default.aspx,ben_voorhorst.jpg
-Christophe Gence-Creux (tbc),ACER,Head of  Electricity Department,,http://www.acer.europa.eu/en/Pages/default.aspx,christophe.jpg
+Klaus-Dieter Borchardt (tbc),European Commission,"Director, Directorate B",Energy4Europe,http://ec.europa.eu/index_en.htm,borchardt.jpg
+Ben Voorhorst,ENTSO-E,Vice-Chair,ENTSO_E,https://www.entsoe.eu/Pages/default.aspx,ben_voorhorst.jpg
+Christophe Gence-Creux (tbc),ACER,Head of  Electricity Department,#ACER,http://www.acer.europa.eu/en/Pages/default.aspx,christophe.jpg
 Peder Østermark Andreasen,ENTSO-E/Energinet.dk,President/CEO,entso_e,https://www.entsoe.eu,peder_andreasen.jpg
 Susanne Nies,ENTSO-E,Corporate Affairs Manager,entso_e,https://www.entsoe.eu/Pages/default.aspx,nies.jpg
 Konstantin Staschus,ENTSO-E,Secretary-General,entso-e,https://www.entsoe.eu,konni.jpg
-Maroš Šefčovič (tbc),European Commission,Vice-President for the Energy Union,,http://ec.europa.eu/index_en.htm,maros.png
+Maroš Šefčovič (tbc),European Commission,Vice-President for the Energy Union,MarosSefcovic,http://ec.europa.eu/index_en.htm,maros.png
 Ing. Peter Žiga (tbc),"Ministry of Economy, Slovak Republic",Minister of Economy,,http://www.economy.gov.sk/ministry-of-economy-of-the-slovak-republic---competence-4627/126312s,p_ziga.jpg
-Jan Mládek (tbc),"Ministry of Industry and Trade, Czech Republic ",Minister,,http://www.mpo.cz/default_en.html,j_mladek.jpg
-Jerzy Buzek (tbc),European Parliament,"MEP, Chair, ITRE Committee",,http://www.europarl.europa.eu/meps/en/28269/JERZY_BUZEK_home.html,j_buzek.jpg
+Jan Mládek (tbc),"Ministry of Industry and Trade, Czech Republic ",Minister,jan_mladek,http://www.mpo.cz/default_en.html,j_mladek.jpg
+Jerzy Buzek (tbc),European Parliament,"MEP, Chair, ITRE Committee",JerzyBuzek,http://www.europarl.europa.eu/meps/en/28269/JERZY_BUZEK_home.html,j_buzek.jpg
 Zbyněk Boldiš,CEPS,Member of the Board of Directors,,http://www.ceps.cz/ENG/Pages/default.aspx,zbynek_boldis.jpg
 Aleš Tomec (tbc),OTE,Chair of the Board,,,t_ales.jpg
-Juan Jose Alba Rios (tbc),EURELECTRIC,"Chair, Markets Committee",,http://www.eurelectric.org/,juan-jose-alba-rios.png
-Joachim Vanzetta,ENTSO-E/Amprion,"Chair, SOC",,https://www.entsoe.eu,joachim_vanzetta.jpg
+Juan Jose Alba Rios (tbc),EURELECTRIC,"Chair, Markets Committee",EURELECTRIC,http://www.eurelectric.org/,juan-jose-alba-rios.png
+Joachim Vanzetta,ENTSO-E/Amprion,"Chair, SOC",ENTSO_E,https://www.entsoe.eu,joachim_vanzetta.jpg
 Ing. Miroslav Stejskal,SEPS,General Director,,http://www.sepsas.sk/seps/en_index.asp,m_stejskal.jpg
-Paul Rübig (tbc),European Parliament,"MEP, ITRE Committee",,http://www.europarl.europa.eu/committees/en/itre/home.html,p_rubig.jpg
+Paul Rübig (tbc),European Parliament,"MEP, ITRE Committee",PaulRuebig,http://www.europarl.europa.eu/committees/en/itre/home.html,p_rubig.jpg
 Siem Bruijns (tbc),TSCNET,Managing Director,,http://www.tscnet.eu/,siem_bruijns.png
-Annegret Groebel (tbc),CEER,Vice-President,,http://www.ceer.eu/portal/page/portal/EER_HOME,a_groebel.png
-Catalin Chimirel,Transelectrica,Board Member,,http://www.transelectrica.ro/web/tel/home,c_chimirel.jpg
-Sonya Twohig,ENTSO-E,System Operations Manager,,https://www.entsoe.eu,sonya_twohig.jpg
+Annegret Groebel (tbc),CEER,Vice-President,CEERenergy ,http://www.ceer.eu/portal/page/portal/EER_HOME,a_groebel.png
+Catalin Chimirel,Transelectrica,Board Member,#Transelectrica,http://www.transelectrica.ro/web/tel/home,c_chimirel.jpg
+Sonya Twohig,ENTSO-E,System Operations Manager,ENTSO_E,https://www.entsoe.eu,sonya_twohig.jpg
 Eryk Klossowski,PSE,President of the Board,,http://www.pse.pl/index.php?dzid=32&did=&lang_id=2,eryk_klossowski.jpg
 Ivo Nesrovnal,Member of Committee of the Regions,Mayor of Bratislava,,,Ivo_Nesrovnal.jpg
-Sebastien Lepy (tbc),ENTSO-E/RTE,"Chair, SDC",,http://tyndp.entsoe.eu/,sebastien_lepy.jpg
-Alena Vitásková (tbc),ERÚ/CEER,Chair/Assembly Member,,http://www.ceer.eu/portal/page/portal/EER_HOME,a_vitaskova.jpg
-Antonella Battaglini (tbc),RGI,CEO,,http://renewables-grid.eu/,a_battaglini.jpg
-Matteo del Fante,ENTSO-E/Terna,Vice President/CEO,,https://www.entsoe.eu,matteo_del_fante.jpg
+Sebastien Lepy (tbc),ENTSO-E/RTE,"Chair, SDC",ENTSO_E,http://tyndp.entsoe.eu/,sebastien_lepy.jpg
+Alena Vitásková (tbc),ERÚ/CEER,Chair/Assembly Member,VitaskovaERU,http://www.ceer.eu/portal/page/portal/EER_HOME,a_vitaskova.jpg
+Antonella Battaglini (tbc),RGI,CEO,RenewablesGrid ,http://renewables-grid.eu/,a_battaglini.jpg
+Matteo del Fante,ENTSO-E/Terna,Vice President/CEO,matteodelfante,https://www.entsoe.eu,matteo_del_fante.jpg
 Kamilla Csomai,MAVIR,CEO,,http://www.mavir.hu/web/mavir/home,k_csomai.jpg
-Joao Torres (tbc),EDSO for Smart Grids,Chair,,http://www.edsoforsmartgrids.eu/,j_torres.jpg
-Marie Donnelly (tbc),DG ENER,"Director, Directorate C",,https://ec.europa.eu/energy/,m_donnelly.png
+Joao Torres (tbc),EDSO for Smart Grids,Chair,energyTorres,http://www.edsoforsmartgrids.eu/,j_torres.jpg
+Marie Donnelly (tbc),DG ENER,"Director, Directorate C",MarieCDonnelly ,https://ec.europa.eu/energy/,m_donnelly.png
