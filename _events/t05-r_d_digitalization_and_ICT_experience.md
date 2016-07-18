@@ -4,7 +4,7 @@ time: 15.00 - 16.00
 speakers:
   - Matteo del Fante
   - Kamilla Csomai
-  - Joao Torres (tbc)
+  - Christian Buchel (tbc)
   - Marie Donnelly (tbc)
   - Aleksander Mervar (tbc)
   - Damjan Medimorec (tbc)
@@ -18,7 +18,7 @@ Introduction by Matteo del Fante, Terna, Vice President of ENTSO-E
 
 Digitalization and ICT experience: challenges and opportunities – Kamilla Csomai, CEO, MAVIR
 
-The role of innovation in the TSO-DSO synergies – Joao Torres, Chair, EDSO for Smart Grids (tbc)
+The role of innovation in the TSO-DSO synergies – Christian Buchel, Chair, EDSO for Smart Grids (tbc)
 
 Big data in energy – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
 

@@ -4,10 +4,10 @@ time: "10.00 - 11.15"
 speakers:
 - "Zbyněk Boldiš"
 - "Klaus-Dieter Borchardt (TBC)"
-- "Christophe Gence-Creux (TBC)"
+- "Christophe Gence-Creux"
 - "Aleš Tomec (TBC)"
 - "Juan Jose Alba Rios (TBC)"
-- "Boris Schucht"
+- "Boris Schucht (TBC)"
 moderator: Peder Andreasen
 ---
 
@@ -19,13 +19,13 @@ ENTSO-E’s perspective – Zbyněk Boldiš, Member of the Board of Directors, C
 
 The European Commission’s perspective – Klaus-Dieter Borchardt, Director, Directorate B: Internal Energy Market, DG ENER (tbc)
 
-A regulatory perspective – Christophe Gence-Creux, Head of Electricity Department, ACER (tbc)
+A regulatory perspective – Christophe Gence-Creux, Head of Electricity Department, ACER
 
 A NEMO perspective – Aleš Tomec, Chair of the Board, OTE (tbc)
 
 A supplier perspective – Juan Jose Alba Rios, Chair, EURELECTRIC Markets Committee (tbc)
 
-What the new market design has to solve: a German perspective - Boris Schucht, 50 Hertz/ or Dirk Biermann, 50 Hertz
+What the new market design has to solve: a German perspective - Boris Schucht, 50 Hertz (TBC) / or Dirk Biermann, 50 Hertz
 
 
 
