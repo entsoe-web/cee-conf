@@ -21,7 +21,7 @@ Where are we on power market integration in Europe, between Central East and Cen
 </div>
 
 <div class="medium-4 columns" markdown="1">
-The CEE Conference will bring together high-level representatives from the policy, industry, academia, and NGO sectors to discuss energy policy priorities and future strategies for the CEE region to fully reap the benefits of regional and European integration. It is jointly organised with the TSOs of Slovakia, Poland, Hungary, the Czech Republic, and Romania, and in partnership with the Florence School of Regulation.
+Join ENTSO-E, its partner the Florence School of Regulation, and the TSOs of the CEE region from Slovakia, the Czech Republic, Poland, Hungary, Romania, Germany, Austria, Croatia, and Slovenia to discuss together these questions at the second ENTSO-E regional conference in 2016.
 </div>
 </div>
 

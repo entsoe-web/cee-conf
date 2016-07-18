@@ -50,8 +50,11 @@ nav-breadcrumbs:
       {% include nav.html masthead="no" %}
       <a href="" id="first"></a>
     <section class="section row session">
+
       <div class="medium-8 columns">
+      {% if page.url contains '/partners'  %}{% include nav-breadcrumbs.html %}{% endif %}
       <h2>{{page.title}}</h2>
+      {% unless page.url contains '/partners'  %}
       <div class="time">{{page.time}}</div>
       <h3>Panelists</h3>
       <h4>
@@ -62,7 +65,7 @@ nav-breadcrumbs:
       {% if page.moderator %}
       <h4>Moderator: <span class="person">{{page.moderator}}</span></h4>
       {% endif %}
-      
+      {% endunless %}
       
       {{ content }}
       </div>
