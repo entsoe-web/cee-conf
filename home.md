@@ -12,7 +12,7 @@ permalink: "/"
 <a href="" id="first"></a>
 
 <div class="medium-12 columns text-center" markdown="1" style="text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.6);">
-# Completing the European Power Market Integration
+# Completing the European Power Market
 {:class="page-title" style="margin-top:50px;"}
 
 ## A Central East European Perspective
