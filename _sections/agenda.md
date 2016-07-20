@@ -7,7 +7,7 @@ fill: 'fill-grey'
     .speakers {display: block;}
     .panel-name {font-weight: 900;}
     #agenda table>tbody>tr>td {font-weight: 200}
-    #agenda table {color: #555;}
+    #agenda table {color: #333;}
     #agenda table>tbody>tr>td {border-top: 1px solid #ddd;vertical-align: top;background-color:transparent;}
     #agenda table>tbody>tr {background-color: transparent;}
     #agrenda table thead, #agenda table tbody {background-color: transparent;border:0;}
