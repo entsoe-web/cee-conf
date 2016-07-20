@@ -12,19 +12,19 @@ moderator: "Ben Voorhorst"
 ---
 
 
-Introduced by e-voting
+_Introduced by e-voting_
 
-Introduction by Matteo del Fante, Terna, Vice President of ENTSO-E
+__Introduction__ by Matteo del Fante, Terna, Vice President of ENTSO-E
 
-Digitalization and ICT experience: challenges and opportunities – Kamilla Csomai, CEO, MAVIR
+__Digitalization and ICT experience: challenges and opportunities__ – Kamilla Csomai, CEO, MAVIR
 
-The role of innovation in the TSO-DSO synergies – Christian Buchel, Chair, EDSO for Smart Grids (tbc)
+__The role of innovation in the TSO-DSO synergies__ – Christian Buchel, Chair, EDSO for Smart Grids (tbc)
 
-Big data in energy – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
+__Big data in energy__ – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
 
-Challenges and opportunities for new market entrants – Aleksander Mervar, CEO ELES (tbc)
+__Challenges and opportunities for new market entrants__ – Aleksander Mervar, CEO ELES (tbc)
 
-Developing the potential of DSR in the region - Damjan Medimorec, Director, Executive Office, HOPS
+__Developing the potential of DSR in the region__ - Damjan Medimorec, Director, Executive Office, HOPS
 
 
 Followed by Q&A moderated Ben Voorhorst, Vice-Chair, ENTSO-E

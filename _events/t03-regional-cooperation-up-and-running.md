@@ -16,19 +16,19 @@ speakers:
 
 _Introduced by e-voting_
 
-TSOs’ roadmap for regional cooperation – Joachim Vanzetta, Chair, System Operations Committee, ENTSO-E (TBC)
+__TSOs’ roadmap for regional cooperation__ – Joachim Vanzetta, Chair, System Operations Committee, ENTSO-E (TBC)
 
-What does the roadmap mean? – Ing. Miroslav Stejskal, General Director, SEPS
+__What does the roadmap mean?__ – Ing. Miroslav Stejskal, General Director, SEPS
 
-Regionalization: what models for regional cooperation for Europe? – Paul Rübig MEP, ITRE Committee, European Parliament (tbc)
+__Regionalization: what models for regional cooperation for Europe?__ – Paul Rübig MEP, ITRE Committee, European Parliament (tbc)
 
-What benefit from Regional Security Coordinators? – Siem Bruijns, Managing Director, TSCNET
+__What benefit from Regional Security Coordinators?__ – Siem Bruijns, Managing Director, TSCNET
 
-Austria within the regional context: an APG perspective - Thomas Karall, APG, ENTSO-E Board Member
+__Austria within the regional context: an APG perspective__ - Thomas Karall, APG, ENTSO-E Board Member
 
-Regulatory cooperation in regions – Annegret Groebel, Vice-President, CEER, BNetzA
+__Regulatory cooperation in regions__ – Annegret Groebel, Vice-President, CEER, BNetzA
 
-Connecting the regions - Catalin Chimirel, Board Member, Transelectrica (tbc)
+__Connecting the regions__ - Catalin Chimirel, Board Member, Transelectrica (tbc)
 
 
 Followed by Q&A moderated by Sonya Twohig, System Operations Manager, ENTSO-E

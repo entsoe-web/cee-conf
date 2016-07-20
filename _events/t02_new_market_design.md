@@ -15,17 +15,17 @@ Introduced by e-voting
 
 __Perspectives on CWE-CEE market coupling:__
 
-ENTSO-E’s perspective – Zbyněk Boldiš, Member of the Board of Directors, CEPS
+__ENTSO-E’s perspective__ – Zbyněk Boldiš, Member of the Board of Directors, CEPS
 
-The European Commission’s perspective – Klaus-Dieter Borchardt, Director, Directorate B: Internal Energy Market, DG ENER (tbc)
+__The European Commission’s perspective__ – Klaus-Dieter Borchardt, Director, Directorate B: Internal Energy Market, DG ENER (tbc)
 
-A regulatory perspective – Christophe Gence-Creux, Head of Electricity Department, ACER
+__A regulatory perspective__ – Christophe Gence-Creux, Head of Electricity Department, ACER
 
-A NEMO perspective – Aleš Tomec, Chair of the Board, OTE (tbc)
+__A NEMO perspective__ – Aleš Tomec, Chair of the Board, OTE (tbc)
 
-A supplier perspective – Juan Jose Alba Rios, Chair, EURELECTRIC Markets Committee (tbc)
+__A supplier perspective__ – Juan Jose Alba Rios, Chair, EURELECTRIC Markets Committee (tbc)
 
-What the new market design has to solve: a German perspective - Boris Schucht, 50 Hertz (TBC) / or Dirk Biermann, 50 Hertz
+__What the new market design has to solve: a German perspective__ - Boris Schucht, 50 Hertz (TBC) / or Dirk Biermann, 50 Hertz
 
 
 
