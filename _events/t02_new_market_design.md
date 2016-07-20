@@ -25,7 +25,7 @@ __A NEMO perspective__ – Aleš Tomec, Chair of the Board, OTE (tbc)
 
 __A supplier perspective__ – Juan Jose Alba Rios, Chair, EURELECTRIC Markets Committee (tbc)
 
-__What the new market design has to solve: a German perspective__ - Boris Schucht, 50 Hertz (TBC) / or Dirk Biermann, 50 Hertz
+__What the new market design has to solve: a German perspective__ - Boris Schucht, 50 Hertz (TBC)
 
 
 
