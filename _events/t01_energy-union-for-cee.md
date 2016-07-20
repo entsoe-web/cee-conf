@@ -7,20 +7,20 @@ speakers:
   - Bente Hagem
   - Vojtech Ferencz
   - Jan Mládek (tbc)
-  - Jerzy Buzek (tbc)
+  - Jerzy Buzek
 ---
 
 _Introduced by e-voting_
 
-Delivering the Energy Union in the CEE region - Maroš Šefčovič, Vice-President for the Energy Union, EC (tbc)
+__Delivering the Energy Union in the CEE region__ - Maroš Šefčovič, Vice-President for the Energy Union, EC (tbc)
 
-Regional cooperation: a TSO perspective - Bente Hagem, Chair of the Board, ENTSO-E 
+__Regional cooperation: a TSO perspective__ - Bente Hagem, Chair of the Board, ENTSO-E 
 
-The Energy Union governance and strengthening regional cooperation - Vojtech Ferencz, PhD., State Secretary of the Ministry of Economy of the Slovak Republic
+__The Energy Union governance and strengthening regional cooperation__ - Vojtech Ferencz, PhD., State Secretary of the Ministry of Economy of the Slovak Republic
 
-Regional cooperation in CEE: challenges and opportunities ahead - Jan Mládek, Minister, Ministry of Industry and Trade, Czech Republic (tbc)
+__Regional cooperation in CEE: challenges and opportunities ahead__ - Jan Mládek, Minister, Ministry of Industry and Trade, Czech Republic (tbc)
 
-Energy Regions: the European Parliament’s expectations - Jerzy Buzek, Chair, ITRE Committee, European Parliament (tbc)
+__Energy Regions: the European Parliament’s expectations__ - Jerzy Buzek, Chair, ITRE Committee, European Parliament __by video message__
 
 
 Followed by Q&A moderated by Konstantin Staschus, Secretary-General, ENTSO-E
