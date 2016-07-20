@@ -29,4 +29,4 @@ __What the new market design has to solve: a German perspective__ - Boris Schuch
 
 
 
-Followed by a round table discussion and Q&A moderated by Peder Andreasen, President, ENTSO-E with: Zbyněk Boldiš, Klaus-Dieter Borchardt, Christophe Gence-Creux, Aleš Tomec, Juan Jose Alba Rios, Boris Schucht, 50 Hertz, ELES, HOPS, APG (tbc)
+Followed by a round table discussion and Q&A moderated by Peder Andreasen, President, ENTSO-E with: Zbyněk Boldiš, Klaus-Dieter Borchardt, Christophe Gence-Creux, Aleš Tomec, Juan Jose Alba Rios, Boris Schucht, Thomas Karall, 50 Hertz, ELES, HOPS

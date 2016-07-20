@@ -7,7 +7,7 @@ speakers:
   - Miroslav Stejskal
   - Paul Rübig (tbc)
   - Siem Bruijns
-  - Thomas Karall (tbc)
+  - Thomas Karall
   - Annegret Groebel
   - Catalin Chimirel (tbc)
 ---
