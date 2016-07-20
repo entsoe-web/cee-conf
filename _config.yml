@@ -2,7 +2,7 @@ exclude: ['blog', 'library', 'api', 'src', 'node_modules', 'bower_components', '
 include: ['.htaccess']
 keep_files: ['blog', 'library', 'brigade', 'api']
 # Used to generate our social metadata
-baseurl: '/cee-conf'
+baseurl: ''
 repository: entsoe-web/cee-conf
 url-base: "http://entsoe.eu"
 permalink: pretty
