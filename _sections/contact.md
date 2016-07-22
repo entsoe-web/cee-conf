@@ -8,9 +8,9 @@ order: 6
 # {{page.title | capitalize}}
 {:id="{{page.title | append: '_1'}}"}
 
-The event will take place at the Hyatt Regency Hotel, 13 kilometres-Perea, Thermi 570 01, Greece
+The event will take place at the Grand Hotel River Park, Dvorakovo Nabrezie 6, Bratislava 81102, Slovakia.
 
-For questions about the South East Europe Regional conference, presenting or sponsoring, email <br> [EUevents@entsoe.eu](mailto:EUevents@entsoe.eu)
+For questions about the Completing the European Power Market. A Central East European Perspective conference, presenting or sponsoring, email <br> [EUevents@entsoe.eu](mailto:EUevents@entsoe.eu)
 </div>
 
 </div>
