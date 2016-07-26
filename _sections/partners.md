@@ -14,11 +14,10 @@ partners:
  - {name: "te", img: "te.png"}
  - {name: "fsr", img: "fsr.png"}
  - {name: "edk", img: "energy-dk.png"}
+ - {name: "sk-pres", img: "sk-logo.svg"}
 
 ---
-{% comment %}
- - {name: "sk-pres", img: "sk-logo.svg"}
-{% endcomment %}
+
 <style type="text/css">
     .part-img {
         
