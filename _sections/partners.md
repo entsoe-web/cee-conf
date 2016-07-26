@@ -3,6 +3,7 @@ title: partners
 order: 4
 published: false
 partners:
+ - {name: "sk-pres", img: "sk-logo.svg"}
  - {name: "50", img: "50hertz.png"}
  - {name: "PSE", img: "pse.png"}
  - {name: "eles", img: "eles.png"}
@@ -14,8 +15,6 @@ partners:
  - {name: "te", img: "te.png"}
  - {name: "fsr", img: "fsr.png"}
  - {name: "edk", img: "energy-dk.png"}
- - {name: "sk-pres", img: "sk-logo.svg"}
-
 ---
 
 <style type="text/css">
