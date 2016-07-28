@@ -21,7 +21,7 @@ __Big data in energy__ – Marie Donnelly, Director, Directorate C: Renewables, 
 
 __Challenges and opportunities for new market entrants__ – Aleksander Mervar, CEO ELES (tbc)
 
-__Developing the potential of DSR in the region__ - Damjan Medimorec, Director, Executive Office, HOPS
+__Developing the potential of DSR in the region__ - Damjan Medimorec, Director, Executive Office, HOPS (tbc)
 
 
-Followed by Q&A moderated Ben Voorhorst, Vice-Chair, ENTSO-E
+Followed by Q&A moderated Ben Voorhorst, Vice-Chair, ENTSO-E 
