@@ -19,7 +19,7 @@ __The role of innovation in the TSO-DSO synergies__ – Christian Buchel, Chair,
 
 __Big data in energy__ – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
 
-__Challenges and opportunities for new market entrants__ – Aleksander Mervar, CEO ELES (tbc)
+__Challenges and opportunities for new market entrants__ – Aleksander Mervar, CEO, ELES (tbc)
 
 __Developing the potential of DSR in the region__ - Damjan Medimorec, Director, Executive Office, HOPS (tbc)
 
