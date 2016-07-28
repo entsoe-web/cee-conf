@@ -5,7 +5,7 @@ moderator: Susanne Nies
 speakers: 
   - Eryk Klossowski
   - Ivo Nesrovnal (tbc)
-  - Sebastien Lepy (tbc)
+  - Sebastien Lepy 
   - Alena Vitásková (tbc)
   - Antonella Battaglini
 ---
@@ -16,7 +16,7 @@ __Introduction__ by Eryk Klossowski, President of the Board, PSE
 
 __Empowering local and regional authorities to contribute to security of supply and the Energy Union__ - Ivo Nesrovnal, Mayor of Bratislava, Member of Committee of the Regions (tbc)
 
-__System adequacy and security of supply in the CEE region: what do the outlooks and TYNDP say?__ - Sebastien Lepy, Chair, System Development Committee, ENTSO-E (tbc)
+__System adequacy and security of supply in the CEE region: what do the outlooks and TYNDP say?__ - Sebastien Lepy, Chair, System Development Committee, ENTSO-E
 
 __Supporting infrastructure development across borders: a regulatory perspective__ - Alena Vitásková, Chair, ERÚ, CEER Assembly Member (tbc)
 
