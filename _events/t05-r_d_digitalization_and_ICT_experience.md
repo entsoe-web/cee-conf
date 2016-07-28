@@ -2,7 +2,6 @@
 title: "Panel Session 4: Active customers participating in all markets: challenges and opportunities for the CEE region"
 time: 15.00 - 16.00
 speakers:
-  - Matteo del Fante
   - Kamilla Csomai
   - Christian Buchel (tbc)
   - Marie Donnelly (tbc)
@@ -13,8 +12,6 @@ moderator: "Ben Voorhorst"
 
 
 _Introduced by e-voting_
-
-__Introduction__ by Matteo del Fante, Terna, Vice President of ENTSO-E
 
 __Digitalization and ICT experience: challenges and opportunities__ – Kamilla Csomai, CEO, MAVIR
 
