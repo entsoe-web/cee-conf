@@ -15,7 +15,7 @@ _Introduced by e-voting_
 
 __Digitalization and ICT experience: challenges and opportunities__ – Kamilla Csomai, CEO, MAVIR
 
-__The role of innovation in the TSO-DSO synergies__ – Christian Buchel, Chair, EDSO for Smart Grids (tbc)
+__The role of innovation in the TSO-DSO synergies__ – Christian Buchel, Vice-Chair of the Board, EDSO for Smart Grids (tbc)
 
 __Big data in energy__ – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
 
