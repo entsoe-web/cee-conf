@@ -59,7 +59,13 @@ nav-breadcrumbs:
     <link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
     <script src="//use.edgefonts.net/source-sans-pro;merriweather:n3,n4,n7,n9.js"></script>
     <style type="text/css">
-  
+    .limiter {
+  width:83.3333%;
+  max-width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+  }
+
 </style>
   </head>
  
@@ -67,8 +73,14 @@ nav-breadcrumbs:
   
       {% include nav.html masthead="no" %}
   	
-  	
-    {{ content }}
+  	{% if page.limiter %}
+      <div class="limiter">
+        {{content}}
+      </div>
+    {% else %}
+     {{ content }}
+    {% endif %}
+   
   	
     <a id="destroy" href="#"></a>
     {% include newsletter-signup.html %}
