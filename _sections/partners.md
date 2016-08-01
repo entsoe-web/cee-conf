@@ -86,6 +86,7 @@ partners:
 <div class="small-12 columns">
 <div class="large-8 text-center small-centered">
 <a class="button large" href="{{site.baseurl}}/partners">Find out more about our partners</a>
+<p>This conference is taking place under the patronage of the Slovak Presidency of the Council of the EU and the Ministry of Economy of the Slovak Republic.</p>
 </div>
 </div>
 
