@@ -7,7 +7,7 @@ speakers:
   - Bente Hagem
   - Vojtech Ferencz
   - Jan Mládek (tbc)
-  - Jerzy Buzek
+  - Jerzy Buzek (by video message)
 ---
 
 _Introduced by e-voting_
