@@ -3,11 +3,11 @@ title: "Panel 1: New market design: what is in for the CEE region?"
 time: "10.00 - 11.15"
 speakers:
 - "Zbyněk Boldiš"
-- "Klaus-Dieter Borchardt (TBC)"
+- "Klaus-Dieter Borchardt (tbc)"
 - "Christophe Gence-Creux"
-- "Aleš Tomec (TBC)"
-- "Juan Jose Alba Rios (TBC)"
-- "Boris Schucht (TBC)"
+- "Aleš Tomec (tbc)"
+- "Juan Jose Alba Rios (tbc)"
+- "Boris Schucht (tbc)"
 moderator: Peder Andreasen
 ---
 
@@ -25,8 +25,8 @@ __A NEMO perspective__ – Aleš Tomec, Chair of the Board, OTE (tbc)
 
 __A supplier perspective__ – Juan Jose Alba Rios, Chair, EURELECTRIC Markets Committee (tbc)
 
-__What the new market design has to solve: a German perspective__ - Boris Schucht, 50 Hertz (TBC)
+__What the new market design has to solve: a German perspective__ - Boris Schucht, 50 Hertz (tbc)
 
 
 
-Followed by a round table discussion and Q&A moderated by Peder Andreasen, President, ENTSO-E with: Zbyněk Boldiš, Klaus-Dieter Borchardt, Christophe Gence-Creux, Aleš Tomec, Juan Jose Alba Rios, Boris Schucht, Thomas Karall, 50 Hertz, ELES, HOPS
+Followed by a round table discussion and Q&A moderated by Peder Andreasen, President, ENTSO-E with: Zbyněk Boldiš, Klaus-Dieter Borchardt, Christophe Gence-Creux, Aleš Tomec, Juan Jose Alba Rios, Boris Schucht, Thomas Karall (APG), ELES (tbc), HOPS (tbc)
