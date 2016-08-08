@@ -19,6 +19,7 @@ partners:
 ---
 
 <style type="text/css">
+.block {display: block;}
     .part-img {
         
     }
@@ -46,7 +47,7 @@ partners:
     transform: translateY(-50%);
     opacity: .8;
     height: 100%;
-    max-height: 90%;
+    max-height: 85%;
     position: absolute;
     left: 0;
     right: 0;
@@ -65,7 +66,7 @@ partners:
 }
 
 .partner-logos div {
-    height: 120px;
+    height: 85px;
     position: relative;
 }
 
