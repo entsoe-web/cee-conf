@@ -4,6 +4,7 @@ order: 4
 published: false
 partners:
  - {name: "sk-pres", img: "sk-logo.svg"}
+ - {name: "sk-economy", img: "slovak-e.svg"}
  - {name: "50", img: "50hertz.png"}
  - {name: "PSE", img: "pse.png"}
  - {name: "eles", img: "eles.png"}
