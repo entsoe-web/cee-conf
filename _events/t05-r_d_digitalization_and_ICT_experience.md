@@ -6,7 +6,7 @@ speakers:
   - Christian Buchel (tbc)
   - Marie Donnelly (tbc)
   - "Jurij Klančnik"
-  - Damjan Medimorec (tbc)
+  - Miroslav Mesić
 moderator: "Ben Voorhorst"
 ---
 
@@ -21,7 +21,7 @@ __Big data in energy__ – Marie Donnelly, Director, Directorate C: Renewables, 
 
 __Challenges and opportunities for new market entrants__ - Jurij Klančnik, Director, Transmission System Operation, ELES
 
-__Developing the potential of DSR in the region__ - Damjan Medimorec, Director, Executive Office, HOPS (tbc)
+__Developing the potential of DSR in the region__ - Miroslav Mesić, Director, Executive Office, HOPS
 
 
 Followed by Q&A moderated Ben Voorhorst, Vice-Chair, ENTSO-E 
