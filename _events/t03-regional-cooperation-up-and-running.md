@@ -9,7 +9,7 @@ speakers:
   - Siem Bruijns
   - Thomas Karall
   - Annegret Groebel
-  - Catalin Chimirel (tbc)
+  - Gheorghe Visan
 ---
 
 
@@ -28,7 +28,7 @@ __Austria within the regional context: an APG perspective__ - Thomas Karall, CFO
 
 __Regulatory cooperation in regions__ – Annegret Groebel, Vice-President, CEER, BNetzA
 
-__Connecting the regions__ - Catalin Chimirel, Board Member, Transelectrica (tbc)
+__Connecting the regions__ - Gheorghe Visan, Commercial Director, Transelectrica
 
 
 Followed by Q&A moderated by Sonya Twohig, System Operations Manager, ENTSO-E
