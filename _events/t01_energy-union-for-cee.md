@@ -3,7 +3,7 @@ title: "The Energy Union: what does it mean in the CEE region?"
 time: 09.00 - 10.00
 moderator: Konstantin Staschus
 speakers:
-  - Juraj Nociar(tbc)
+  - Juraj Nociar (tbc)
   - Bente Hagem
   - Vojtech Ferencz
   - Jan Mládek (tbc)
