@@ -40,7 +40,7 @@ __Use the following text to advertise the event__
 >
 > Where are we on power market integration in Europe, between Central East and Central West, 27 years after the end of the East-West divide? What are the regional infrastructure needs and how can the necessary investments be attracted? How does market, planning and operational cooperation progress, and how will the regional security coordinators further deliver results? What challenges and opportunities in the areas of TSO-DSO cooperation, smart grids and data can we expect in the future?
 >
-> Join ENTSO-E, its partner the Florence School of Regulation, and the TSOs of the CEE region from Slovakia, the Czech Republic, Poland, Hungary, Romania, Germany, Austria, Croatia, and Slovenia to discuss together these questions at the second ENTSO-E regional conference in 2016. The conference is organised under the patronage of the Slovak Presidency of the EU Council and of the Ministry of the Economy of the Slovak Republic. Energetika.net is the conference media partner.
+> Join ENTSO-E, its partner the Florence School of Regulation, and the TSOs of the CEE region from Slovakia, the Czech Republic, Poland, Hungary, Romania, Germany, Austria, Croatia, and Slovenia to discuss together these questions at the second ENTSO-E regional conference in 2016. The conference is organised under the auspices of of the Slovak Presidency of the EU Council and of the Ministry of the Economy of the Slovak Republic. Energetika.net is the conference media partner.
 > 
 > [Register Now](http://cee.entsoe.eu)
 
