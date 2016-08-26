@@ -3,7 +3,7 @@ title: "Panel Session 4: Active customers participating in all markets: challeng
 time: 15.00 - 16.00
 speakers:
   - Kamilla Csomai
-  - Christian Buchel (tbc)
+  - Richard Vidlička (tbc)
   - Marie Donnelly (tbc)
   - "Jurij Klančnik"
   - Miroslav Mesić
@@ -15,7 +15,7 @@ _Introduced by e-voting_
 
 __Digitalization and ICT experience: challenges and opportunities__ – Kamilla Csomai, CEO, MAVIR
 
-__The role of innovation in the TSO-DSO synergies__ – Christian Buchel, Vice-Chair of the Board, EDSO for Smart Grids (tbc)
+__The role of innovation in the TSO-DSO synergies__ – Richard Vidlička, Chair of EDSO Project Committee, EDSO for Smart Grids (tbc)
 
 __Big data in energy__ – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
 
