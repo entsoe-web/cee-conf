@@ -3,7 +3,7 @@ title: "The Energy Union: what does it mean in the CEE region?"
 time: 09.00 - 10.00
 moderator: Konstantin Staschus
 speakers:
-  - Juraj Nociar (tbc)
+  - Juraj Nociar
   - Bente Hagem
   - Vojtech Ferencz
   - Jan Mládek (tbc)
@@ -12,7 +12,7 @@ speakers:
 
 _Introduced by e-voting_
 
-__Delivering the Energy Union in the CEE region__ - Juraj Nociar, Head of Cabinet of Vice-President Šefčovič, Energy Union (tbc)
+__Delivering the Energy Union in the CEE region__ - Juraj Nociar, Head of Cabinet of Vice-President Šefčovič, Energy Union
 
 __Regional cooperation: a TSO perspective__ - Bente Hagem, Chair of the Board, ENTSO-E 
 
