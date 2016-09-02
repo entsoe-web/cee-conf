@@ -18,7 +18,7 @@ __Regional cooperation: a TSO perspective__ - Bente Hagem, Chair of the Board, E
 
 __The Energy Union governance and strengthening regional cooperation__ - Vojtech Ferencz, PhD., State Secretary of the Ministry of Economy of the Slovak Republic
 
-__Regional cooperation in CEE: challenges and opportunities ahead__ - Lenka Kovačovská,Deputy Minister for Energy, Ministry of Industry and Trade, Czech Republic
+__Regional cooperation in CEE: challenges and opportunities ahead__ - Lenka Kovačovská, Deputy Minister for Energy, Ministry of Industry and Trade, Czech Republic
 
 __Energy Regions: the European Parliament’s expectations__ - Jerzy Buzek, Chair, ITRE Committee, European Parliament __by video message__
 
