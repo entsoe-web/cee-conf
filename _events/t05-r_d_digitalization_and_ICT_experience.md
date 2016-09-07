@@ -5,7 +5,7 @@ speakers:
   - Kamilla Csomai
   - Richard Vidlička (tbc)
   - Marie Donnelly (tbc)
-  - "Jurij Klančnik"
+  - Vincenc Kožar
   - Miroslav Mesić
 moderator: "Ben Voorhorst"
 ---
@@ -19,7 +19,7 @@ __The role of innovation in the TSO-DSO synergies__ – Richard Vidlička, Board
 
 __Big data in energy__ – Marie Donnelly, Director, Directorate C: Renewables,  Research and Innovation, Energy Efficiency, DG ENER (tbc)
 
-__Challenges and opportunities for new market entrants__ - Jurij Klančnik, Director, Transmission System Operation, ELES
+__Challenges and opportunities for new market entrants__ - Vincenc Kožar , Assistant Director, System Operation, ELES
 
 __Developing the potential of DSR in the region__ - Miroslav Mesić, Director, Executive Office, HOPS
 
