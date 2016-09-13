@@ -6,7 +6,7 @@ speakers:
   - Eryk Klossowski
   - Ivo Nesrovnal (tbc)
   - Sebastien Lepy 
-  - Alena Vitásková (tbc)
+  - Attila Nyikos
   - Antonella Battaglini
 ---
 
@@ -18,7 +18,7 @@ __Empowering local and regional authorities to contribute to security of supply 
 
 __System adequacy and security of supply in the CEE region: what do the outlooks and TYNDP say?__ - Sebastien Lepy, Chair, System Development Committee, ENTSO-E
 
-__Supporting infrastructure development across borders: a regulatory perspective__ - Alena Vitásková, Chair, ERÚ, CEER Assembly Member (tbc)
+__Supporting infrastructure development across borders: a regulatory perspective__ - Attila Nyikos, Vice-President for International Affairs, Hungarian Energy and Utility Regulatory Authority
 
 __Don’t forget about sustainability__ – Antonella Battaglini, CEO, RGI
 
