@@ -3,7 +3,7 @@ title: "Panel Session 2: Regional cooperation up and running"
 time: 11.30 - 12.30
 moderator: Sonya Twohig
 speakers: 
-  - Joachim Vanzetta (tbc)
+  - Joachim Vanzetta
   - Miroslav Stejskal
   - Paul Rübig (tbc)
   - Siem Bruijns
@@ -16,7 +16,7 @@ speakers:
 
 _Introduced by e-voting_
 
-__TSOs’ roadmap for regional cooperation__ – Joachim Vanzetta, Chair, System Operations Committee, ENTSO-E (TBC)
+__TSOs’ roadmap for regional cooperation__ – Joachim Vanzetta, Chair, System Operations Committee, ENTSO-E 
 
 __What does the roadmap mean?__ – Miroslav Stejskal, General Director, SEPS
 
