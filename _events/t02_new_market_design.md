@@ -6,7 +6,7 @@ speakers:
 - "Mechthild Wörsdörfer (tbc)"
 - "Christophe Gence-Creux"
 - "Aleš Tomec (tbc)"
-- "Juan Jose Alba Rios (tbc)"
+- "Robert Jambrich"
 - "Dirk Biermann"
 moderator: Peder Andreasen
 ---
@@ -23,10 +23,10 @@ __A regulatory perspective__ – Christophe Gence-Creux, Head of Electricity Dep
 
 __A NEMO perspective__ – Aleš Tomec, Chair of the Board, OTE (tbc)
 
-__A supplier perspective__ – Juan Jose Alba Rios, Chair, EURELECTRIC Markets Committee (tbc)
+__A supplier perspective__ – Robert Jambrich, EURELECTRIC Markets Committee Member, Head of Foreign Regulatory Department, Slovenske Elektrarne
 
 __What the new market design has to solve: a 50Hertz perspective__ - Dirk Biermann, 50 Hertz
 
 
 
-Followed by a round table discussion and Q&A moderated by Peder Andreasen, President, ENTSO-E with: Zbyněk Boldiš, Mechthild Wörsdörfer, Christophe Gence-Creux, Aleš Tomec, Juan Jose Alba Rios, Dirk Biermann, Thomas Karall (APG), ELES (tbc), HOPS (tbc)
+Followed by a round table discussion and Q&A moderated by Peder Andreasen, President, ENTSO-E with: Zbyněk Boldiš, Mechthild Wörsdörfer, Christophe Gence-Creux, Aleš Tomec, Robert Jambrich, Dirk Biermann, Thomas Karall (APG), ELES (tbc), HOPS (tbc)
