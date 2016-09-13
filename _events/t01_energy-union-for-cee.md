@@ -4,7 +4,7 @@ time: 09.00 - 10.00
 moderator: Konstantin Staschus
 speakers:
   - Juraj Nociar
-  - Bente Hagem
+  - Peder Andreasen
   - Vojtech Ferencz
   - Lenka Kovačovská
   - Jerzy Buzek (by video message)
@@ -14,7 +14,7 @@ _Introduced by e-voting_
 
 __Delivering the Energy Union in the CEE region__ - Juraj Nociar, Head of Cabinet of Vice-President Šefčovič, Energy Union
 
-__Regional cooperation: a TSO perspective__ - Bente Hagem, Chair of the Board, ENTSO-E 
+__Regional cooperation: a TSO perspective__ - Peder Andreasen, President, ENTSO-E 
 
 __The Energy Union governance and strengthening regional cooperation__ - Vojtech Ferencz, PhD., State Secretary of the Ministry of Economy of the Slovak Republic
 
