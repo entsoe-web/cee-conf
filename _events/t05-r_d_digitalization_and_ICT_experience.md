@@ -3,8 +3,7 @@ title: "Panel Session 4: Active customers participating in all markets: challeng
 time: 15.00 - 16.00
 speakers:
   - Kamilla Csomai
-  - Richard Vidlička (tbc)
-  - Marie Donnelly (tbc)
+  - Mark van Stiphout
   - Vincenc Kožar
   - Miroslav Mesić
 moderator: "Ben Voorhorst"
