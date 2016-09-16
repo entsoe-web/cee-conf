@@ -5,11 +5,11 @@ moderator: Sonya Twohig
 speakers: 
   - Joachim Vanzetta
   - Miroslav Stejskal
-  - Paul Rübig (tbc)
   - Siem Bruijns
   - Thomas Karall
   - Annegret Groebel
   - Gheorghe Visan
+moderator: Sonya Twohig
 ---
 
 
