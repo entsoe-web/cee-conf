@@ -4,10 +4,9 @@ time: 13.30 - 14.30
 moderator: Susanne Nies
 speakers: 
   - Eryk Klossowski
-  - Ivo Nesrovnal (tbc)
   - Sebastien Lepy 
-  - Attila Nyikos
   - Antonella Battaglini
+  - Attila Nyikos
 ---
 
 _Introduced by e-voting_
