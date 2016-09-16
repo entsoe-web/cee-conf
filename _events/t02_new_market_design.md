@@ -3,12 +3,12 @@ title: "Panel 1: New market design: what is in for the CEE region?"
 time: "10.00 - 11.15"
 speakers:
 - "Zbyněk Boldiš"
-- "Mechthild Wörsdörfer (tbc)"
 - "Christophe Gence-Creux"
-- "Aleš Tomec (tbc)"
+- "Maciej Olejniczak"
 - "Robert Jambrich"
 - "Dirk Biermann"
-moderator: Peder Andreasen
+- "Thomas Karall"
+moderator: Peder Østermark Andreasen
 ---
 
 Introduced by e-voting
