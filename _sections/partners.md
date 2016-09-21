@@ -14,6 +14,7 @@ partners:
  - {name: "ceps", img: "ceps.png"}
  - {name: "apg", img: "apg.png"}
  - {name: "te", img: "te.png"}
+ - {name: "tennet", img: "tennet.png"}
  - {name: "fsr", img: "fsr.png"}
  - {name: "edk", img: "energy-dk.png"}
 ---
