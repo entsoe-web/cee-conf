@@ -21,10 +21,8 @@ Where are we on power market integration in Europe, between Central East and Cen
 </div>
 
 <div class="medium-4 columns" markdown="1">
-Join ENTSO-E, its partner the Florence School of Regulation, and the TSOs of the CEE region from Slovakia, the Czech Republic, Poland, Hungary, Romania, Germany, Austria, Croatia, and Slovenia to discuss together these questions at the second ENTSO-E regional conference in 2016.
-</div>
-</div>
+News from the conference
 
 <div class="text-center" style="padding: 40px 0;">
-<a class="button large" style="font-size: 2rem;" href="{{'/register' | prepend: site.baseurl}}">Register your place</a>
+<a class="button large" style="font-size: 2rem;" href="{{https://youtu.be/enPL6pDdQX4}}">View Mr Jerzy Buzek, MEP, speech</a>
 </div>
