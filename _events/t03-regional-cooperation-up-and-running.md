@@ -1,5 +1,5 @@
 ---
-title: "Panel Session 2: Regional cooperation up and running"
+title: "Panel 2: Regional cooperation up and running"
 time: 11.30 - 12.30
 moderator: Sonya Twohig
 speakers: 
