@@ -23,5 +23,5 @@ Where are we on power market integration in Europe, between Central East and Cen
 <div class="medium-4 columns" markdown="1">
 <img class="buzek" src="https://www.entsoe.eu/PublishingImages/General%20News%20images/Buzek.jpg" alt="Mr Jerzy Buzek, MEP" /> 
 <div class="text-center" style="padding: 40px 0;">
-<a class="button" href="{{page.ee-url}}https://youtu.be/enPL6pDdQX4">View &rarr;</a>
+<a class="button large" href="{{page.ee-url}}https://youtu.be/enPL6pDdQX4">View Mr Buzek's speech &rarr;</a>
 </div>
