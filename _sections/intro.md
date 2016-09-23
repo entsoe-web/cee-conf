@@ -21,7 +21,6 @@ Where are we on power market integration in Europe, between Central East and Cen
 </div>
 
 <div class="medium-4 columns" markdown="1">
-
 <div class="text-center" style="padding: 40px 0;">
 <a class="button large" style="font-size: 1rem;" href="{{https://youtu.be/enPL6pDdQX4}}">View Mr Jerzy Buzek, MEP, speech</a>
 </div>
