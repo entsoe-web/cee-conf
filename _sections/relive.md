@@ -24,7 +24,7 @@ fill: 'fill-blue dark'
 </div>
 
 <div class="medium-6 columns" markdown="1">
-Relive all the best momements from the CEE conference through our videos on the left. The vides include an overall conference summary alongside individual speeches.
+Relive all the best momements from the CEE conference through our videos on the left. The videos include an overall conference summary alongside individual speeches.
 
 [Presentations (Coming soon)](){:class="button disabled"}
 
