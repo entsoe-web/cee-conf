@@ -26,6 +26,6 @@ fill: 'fill-blue dark'
 <div class="medium-6 columns" markdown="1">
 Relive all the best moments from the CEE conference through our videos on the left. The videos include an overall conference summary alongside individual speeches.
 
-[Presentations (Coming soon)](){:class="button disabled"}
+[Presentations (Partial - to be updated)](https://www.dropbox.com/s/jzpb0wfl2mhloml/CEE-CONFERENCE-SLIDES.zip?dl=1){:class="button"}
 
 </div>
